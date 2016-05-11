@@ -54,6 +54,11 @@ body {
   line-height: 1.48em;
 }
 
+.text-content img {
+  margin: 24px 0 24px -5%;
+  width: 110%;
+}
+
 .text-content a {
   color: $primary-color;
 }
@@ -94,7 +99,7 @@ body {
 
 .rsvp iframe {
   width: 100%;
-  height: 1057px;
+  height: 976px;
 }
 
 .footer {
